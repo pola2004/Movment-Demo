@@ -11,8 +11,8 @@ Added lines:
   
 3.Added 1 new value line to count the charge timer.
 
-4.Added 8 new lines to solve the fragmentation problem due to new keyword
+4.Added 8 new lines to solve the fragmentation problem due to new keyword.
 
-5. Added 16 new lines to add 3 methods, one of them to handle the new power state and the other to handle charging and dashing.
+5.Added 16 new lines to add 3 methods, one of them to handle the new power state and the other to handle charging and dashing.
 
-6. Modfiy 5 lines to use state methods to change state instead of direct changing the state
+6.Modfiy 5 lines to use state methods to change state instead of direct changing the state.
