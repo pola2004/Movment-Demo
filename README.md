@@ -15,4 +15,4 @@ Added lines:
 
 5.Added 16 new lines to add 3 methods, one of them to handle the new power state and the other to handle charging and dashing.
 
-6.Modfiy 5 lines to use state methods to change state instead of direct changing the state.
+6.Modfiy 4 lines to use state methods to change state instead of direct changing the state.
