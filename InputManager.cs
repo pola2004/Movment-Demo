@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class InputManager : MonoBehaviour
 {
-    public delegate void KeyEvent (KeyCode key);
     public static event System.Action<CharacterController, KeyCode> KeyPressedEvent;
     public static event System.Action<CharacterController, KeyCode> KeyReleasedEvent;
     public static event System.Action<CharacterController, KeyCode> KeyHeldEvent;
